@@ -109,7 +109,8 @@ Ou use o dashboard embutido nos notebooks com **Plotly Dash**.
 
 ## 👥 **Autores**
 - 👨‍💻 Projeto desenvolvido no contexto da disciplina **USP-IC-SIN5006 - Inteligência Computacional**.
-- **Desenvolvedor:** [Seu Nome ou Nome do Grupo]
+- **Testes feitos por:** rlcf - basedo no trabalho:
+- Neural Networks Forecast Models Comparison for the Solar Energy Generation in Amazon Basin, ANDRÉ LUÍS FERREIRA MARQUES 1, MÁRCIO JOSÉ TEIXEIRA 2,FELIPE VALENCIA DE ALMEIDA 1, AND PEDRO LUIZ PIZZIGATTI CORRÊA1, 1 Polytechnic School, University of São Paulo, São Paulo 05508-010, Brazil, 2 Institute of Physics, University of São Paulo, Sao Pãulo 05508-090, Brazil.
 
 ---
 
